@@ -1,4 +1,4 @@
-## Hey, I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://64.media.tumblr.com/47a16834c46c09e9b1490857168023ec/ed634b4a11c93434-22/s500x750/44eb8547b61e3d1c23d1019ce1e96e5e453d7ecd.gifv" width="30px"> !!
+## Hey, I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://i.gifer.com/origin/9b/9b7f5636e14079f70c84cd6ad99004b1_w200.webp" width="60px"> !!
 
 </h2>
 
@@ -6,7 +6,10 @@
 
 ## Sobre mim
 
-Olá, me chamo Filipe Onoue. Estou estudando Desenvolvimento Web pela Trybe. Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas. Procuro sempre estar me atualizanndo com as tecnologias.
+Olá, me chamo Filipe Onoue.
+Estou estudando Desenvolvimento Web pela Trybe.
+Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas.
+Procuro sempre estar me atualizanndo com as tecnologias.
 
 ## Minhas Teck Stacks
 
