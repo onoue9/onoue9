@@ -1,4 +1,4 @@
-## Hey, I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://media2.giphy.com/media/Wm9XlKG2xIMiVcH4CP/giphy.gif" width="30px"> !!
+## Hey, I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://64.media.tumblr.com/47a16834c46c09e9b1490857168023ec/ed634b4a11c93434-22/s500x750/44eb8547b61e3d1c23d1019ce1e96e5e453d7ecd.gifv" width="30px"> !!
 
 </h2>
 
