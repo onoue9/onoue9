@@ -6,10 +6,10 @@
 
 ## Sobre mim
 
-Olá, me chamo Filipe Onoue.
-Estou estudando Desenvolvimento Web pela Trybe.
-Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas.
-Procuro sempre estar me atualizanndo com as tecnologias.
+<p>Olá, me chamo Filipe Onoue.
+<p>Estou estudando Desenvolvimento Web pela Trybe.
+<p>Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas.
+<p>Procuro sempre estar me atualizanndo com as tecnologias.
 
 ## Minhas Teck Stacks
 
