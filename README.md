@@ -1,30 +1,14 @@
-### Hi there 👋
-
-<!--
-**onoue9/onoue9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Filipe Onoue!](https://github.com/onoue9) !!
+## Hey, I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://media2.giphy.com/media/Wm9XlKG2xIMiVcH4CP/giphy.gif" width="30px"> !!
 
 </h2>
 
 <hr/>
 
-## About Me
+## Sobre mim
 
 Olá, me chamo Filipe Onoue. Estou estudando Desenvolvimento Web pela Trybe. Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas. Procuro sempre estar me atualizanndo com as tecnologias.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Minhas Teck Stacks
 
 <table>
   <tbody>
@@ -90,7 +74,7 @@ Olá, me chamo Filipe Onoue. Estou estudando Desenvolvimento Web pela Trybe. Ado
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Onde você pode me achar ✨
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
