@@ -1,120 +1,54 @@
-## Hey, I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://i.gifer.com/origin/9b/9b7f5636e14079f70c84cd6ad99004b1_w200.webp" width="60px"> !!
+Hi 👋 I'm [Filipe Onoue!](https://github.com/onoue9) <img src="https://i.gifer.com/origin/9b/9b7f5636e14079f70c84cd6ad99004b1_w200.webp" width="60px"> !!
+=============================
 
-</h2>
+FullStack Web Developer
+-----------------------
 
-<hr/>
+Olá, me chamo Filipe Onoue. Estou estudando Desenvolvimento Web pela Trybe. Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas. Procuro sempre estar me atualizanndo com as tecnologias.
 
-## Sobre mim
-
-<p>Olá, me chamo Filipe Onoue.
-<p>Estou estudando Desenvolvimento Web pela Trybe.
-<p>Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas.
-<p>Procuro sempre estar me atualizanndo com as tecnologias.
-
-## Minhas Teck Stacks
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>TypeScript</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>NodeJs</strong></span><br><br><br>
-        <img height="64px" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Restfull</strong></span><br><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/70c14e1cc32aadda7539ba9dec9a2b6d9df52dc05994a2d823562f6f48669268/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d68726834317165562d2d2f635f696d616767615f7363616c652c665f6175746f2c666c5f70726f67726573736976652c685f3530302c715f6175746f2c775f313030302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f31733362656479706b74377a6d386d61696b7a672e706e67">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-
-<h1 align="center">
-✨ Onde você pode me achar ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/filipeonoue/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/onoue9">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-  <br/>
-  <a href="https://www.facebook.com/filipe.onoue">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/filipeonoue/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://twitter.com/Wolfonoue">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
-</p>
-</h1>
-
-<div align = "center">
-
-<hr>
+*   🌍  I'm based in Rio de Janeiro, Brazil
+*   🖥️  See my portfolio at [https://portfoliofilipeonoue.gatsbyjs.io/](http://portfoliofilipeonoue.gatsbyjs.io/)
+*   ✉️  You can contact me at [filipeflom@gmail.com](mailto:filipeflom@gmail.com)
+*   🧠  I'm learning TypeScript, NextJs.
+*   ⚡  Sou fanático por jogos no estilo RPG, JRPG onde vivenciamos a história de um personagem ou até criamos a nossa. Tenho um grande sonho de conseguir desenvolver um jogo nesse estilo.<a href="https://www.twitter.com/wolfonoue" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/wolfonoue?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/onoue9" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/onoue9?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/onoue9" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitch/status/onoue9?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+                                <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+                                <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/Ona#2587" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.facebook.com/filipe.onoue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/onoue9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/filipeonoue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/filipeonoue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/285249/onoue9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/wolfonoue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitch.tv/onoue9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/onoue9"><img src="https://github-readme-stats.vercel.app/api?username=onoue9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="onoue9's GitHub stats" /></a><a href="https://github.com/onoue9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onoue9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
+                  href="https://www.buymeacoffee.com/onoue9"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
