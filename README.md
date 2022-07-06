@@ -4,13 +4,14 @@ Hi 👋 My name is Filipe Onoue
 FullStack Web Developer
 -----------------------
 
-Olá, me chamo Filipe Onoue. Estou estudando Desenvolvimento Web pela Trybe. Adoro quebrar a cabeça resolvendo problemas e no processo ajudar as pessoas envolvidas. Procuro sempre estar me atualizanndo com as tecnologias.
+Hi, my name is Filipe Onoue. I'm studying Web Development at Trybe. I love breaking my head solving problems and helping the people involved in the process. I always try to keep up to date with technology.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * 🖥️  See my portfolio at [https://portfoliofilipeonoue.gatsbyjs.io/](http://portfoliofilipeonoue.gatsbyjs.io/)
 * ✉️  You can contact me at [filipeflom@gmail.com](mailto:filipeflom@gmail.com)
 * 🧠  I'm learning TypeScript, NextJs.
-* ⚡  Sou fanático por jogos no estilo RPG, JRPG onde vivenciamos a história de um personagem ou até criamos a nossa. Tenho um grande sonho de conseguir desenvolver um jogo nesse estilo.
+* ⚡  
+I'm a fanatic for RPG and JRPG style games, where we experience a character's story or even create our own. I have a big dream of being able to develop a game in this style.
 
 <a href="https://www.twitter.com/wolfonoue" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/wolfonoue?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
