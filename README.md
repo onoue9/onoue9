@@ -4,10 +4,10 @@ Hi 👋 My name is Filipe Onoue
 FullStack Web Developer
 -----------------------
 
-Hi, my name is Filipe Onoue. I'm studying Web Development at Trybe. I love breaking my head solving problems and helping the people involved in the process. I always try to keep up to date with technology.
+Hi, my name is Filipe Onoue. I'm a Fullstack Web Development. I love breaking my head solving problems and helping the people involved in the process. I always try to keep up to date with technology.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
-* 🖥️  See my portfolio at [https://portfoliofilipeonoue.gatsbyjs.io/](http://portfoliofilipeonoue.gatsbyjs.io/)
+* 🖥️  See my portfolio at [https://onoue9.github.io/portfolio](https://onoue9.github.io/portfolio)
 * ✉️  You can contact me at [filipeflom@gmail.com](mailto:filipeflom@gmail.com)
 * 🧠  I'm learning TypeScript, NextJs.
 * ⚡  
