@@ -1,10 +1,10 @@
-Hi 👋 My name is Filipe Onoue
+Hi 👋 My name is Filipe Lira Onoue Melo
 =============================
 
 FullStack Web Developer
 -----------------------
 
-Hi, my name is Filipe Onoue. I'm a Fullstack Web Development. I love breaking my head solving problems and helping the people involved in the process. I always try to keep up to date with technology.
+Hi. I'm a Fullstack Web Development. I love breaking my head solving problems and helping the people involved in the process. I always try to keep up to date with technology.
 
 * 🌍  I'm based in São Paulo - SP, Brazil
 * 🖥️  See my portfolio at [https://onoue9.github.io/portfolio](https://onoue9.github.io/portfolio)
